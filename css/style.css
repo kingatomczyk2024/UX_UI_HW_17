@@ -62,8 +62,8 @@ nav ul {
 	margin: 0 auto;
 }
 
-.navigation .content {
-	width: 1000px;
+.headerContent {
+	width: 1000px !important;
 	margin: 0 auto;
 }
 
